@@ -1,0 +1,1 @@
+<?php print $safe_html; ?>
